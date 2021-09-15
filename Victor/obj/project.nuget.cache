@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSzEBb/HLWJCpNTb9UBMrzkPyePQz11i8MxuPGR4ulW7Q7Z9DLy5fTNjrj4/WygHs4KZf7dy+lTCMHR5YQHzRw==",
+  "success": true,
+  "projectFilePath": "/Users/victortolbert/Projects/Victor/Victor/Victor.csproj",
+  "expectedPackageFiles": [
+    "/Users/victortolbert/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.17/microsoft.netcore.app.host.osx-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
